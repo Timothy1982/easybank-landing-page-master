@@ -2,6 +2,8 @@
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
 
+Live-Preview: [https://easybank-landing-page-master-rho.vercel.app/](https://easybank-landing-page-master-rho.vercel.app/)
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
